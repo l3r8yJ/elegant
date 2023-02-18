@@ -2,7 +2,7 @@ architect:
   - # your GitHub nickname
 merge:
   script:
-    - # your script
+    - "mvn clean install --errors --batch-mode"
 release:
   pre: false
   script: |-
