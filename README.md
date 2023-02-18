@@ -1,5 +1,5 @@
 # elegant
-This is a pre-configured template for your projects in Java, you can use it with any language.
+This is a pre-configured template for your projects in Java, you can use it with any language, [more about it](https://h1alexbel.github.io/2023/01/21/maintainable-project-template.html)
 
 ## Tools:
  - [Rultor](https://www.rultor.com/) for CI/CD.
