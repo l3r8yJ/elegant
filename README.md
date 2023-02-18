@@ -10,6 +10,7 @@ This is a pre-configured template for your projects in Java, you can use it with
 ## How to use?
  - Configure actions in `workflows` folder.
  - [Configure](https://doc.rultor.com/reference.html) the `@rultor`.
- - [Configure](https://www.yegor256.com/2017/04/05/pdd-in-action.html) the `@0pdd`.
+ - [Configure](https://www.yegor256.com/2017/04/05/pdd-in-action.html) the `0pdd`.
+ - [Configure](https://github.com/marketplace/renovate) the `renovate`.
 
 And you're good to go!
