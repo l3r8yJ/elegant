@@ -5,6 +5,7 @@ This is a pre-configured template for your projects in Java, you can use it with
  - [Rultor](https://www.rultor.com/) for CI/CD.
  - [0pdd](https://www.0pdd.com/) for issue management.
  - [Renovate](https://www.mend.io/free-developer-tools/renovate/) for dependency control.
+ - [xcop](https://www.yegor256.com/2017/08/29/xcop.html) GitHub action for XML style check.
 
 ## How to use?
  - Configure actions in `workflows` folder.
